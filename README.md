@@ -14,6 +14,7 @@ Welcome to the Responsive Burger Website project! This project is a fully respon
 ## Project Overview
 
 The Responsive Burger Website is designed to provide a visually appealing and user-friendly interface for a burger restaurant. The website highlights popular burgers, details the ingredients, and offers easy navigation through various sections like Home, Recipe, Popular, Delivery, and Contact.
+![Responsive Burger website](./preview.png)
 
 ## Features
 
